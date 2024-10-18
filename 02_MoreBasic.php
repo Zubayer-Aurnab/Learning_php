@@ -33,7 +33,12 @@
         // }
         echo $age > 3 ? "big" : "small";
         $langiages = array("python", "C++", "Java", "PHP");
-        echo $langiages[3]
+        echo $langiages[3];
+        $a = 0;
+        while ($a <= 10) {
+            echo "a is $a <br>";
+            $a++;
+        }
         ?>
     </div>
 </body>

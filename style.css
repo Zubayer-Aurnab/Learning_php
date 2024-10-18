@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+    background-color: rgb(152, 223, 251);
+    padding: 20px;
+    margin-top: 10px;
+
+}
+
+form>input {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(14, 60, 187);
+
+}
+
+.btn {
+    padding: 10px;
+    background: rgb(37, 128, 170);
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+
+}
+
+.btns {
+    margin-top: 20px;
+}
+
+.text{
+    color: red;
+}
